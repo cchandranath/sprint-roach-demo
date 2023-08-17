@@ -1,0 +1,3 @@
+INSERT INTO user_details (id, name, email) VALUES ('76d9f276-3c47-11ee-be56-0242ac120002', 'Amar Khanna', 'amar.khanna@gmail.com');
+INSERT INTO user_details (id, name, email) VALUES ('a1a928e6-3c47-11ee-be56-0242ac120002', 'Akbar Ilahabadi', 'akbar.ilahabadi@gmail.com');
+INSERT INTO user_details (id, name, email) VALUES ('c21154fa-3c47-11ee-be56-0242ac120002', 'Anthony Gonsalves', 'anthony.gonsalves@gmail.com');
