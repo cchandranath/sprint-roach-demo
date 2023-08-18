@@ -15,8 +15,7 @@ public class UserDetailsController {
     @Autowired
     private UserDetailsService userDetailsService;
 
-    @PostMapping(value = "/users", consumes = {MediaType.APPLICATION_JSON_VALUE},
-            produces = {MediaType.APPLICATION_JSON_VALUE})
+    @PostMapping(value = "/users")
     @Transactional
     public User createUser(@RequestBody User user) {
         return userDetailsService.createUser(user);

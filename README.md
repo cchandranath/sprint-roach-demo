@@ -1,8 +1,6 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.example.sprint-roach-demo' is invalid and this project uses 'com.example.sprintroachdemo' instead.
-
 # Getting Started
 
 ### Reference Documentation
